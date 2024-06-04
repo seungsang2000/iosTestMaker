@@ -5,6 +5,91 @@
 	<key>logFormatVersion</key>
 	<integer>11</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>9681482B-1A6A-44BD-A022-B49DBD9A1F1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9681482B-1A6A-44BD-A022-B49DBD9A1F1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>testMaker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>testMaker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build testMaker</string>
+			<key>timeStartedRecording</key>
+			<real>739177676.22778594</real>
+			<key>timeStoppedRecording</key>
+			<real>739177678.00881505</real>
+			<key>title</key>
+			<string>Build testMaker</string>
+			<key>uniqueIdentifier</key>
+			<string>9681482B-1A6A-44BD-A022-B49DBD9A1F1B</string>
+		</dict>
+		<key>DD81EBD6-2551-41C8-9B0C-CC632A2FE623</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DD81EBD6-2551-41C8-9B0C-CC632A2FE623.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>testMaker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>testMaker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build testMaker</string>
+			<key>timeStartedRecording</key>
+			<real>739177566.56918895</real>
+			<key>timeStoppedRecording</key>
+			<real>739177581.238603</real>
+			<key>title</key>
+			<string>Build testMaker</string>
+			<key>uniqueIdentifier</key>
+			<string>DD81EBD6-2551-41C8-9B0C-CC632A2FE623</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

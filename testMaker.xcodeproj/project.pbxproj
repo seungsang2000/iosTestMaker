@@ -13,6 +13,7 @@
 		3B8E09C22C0EF04A0050F70E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 3B8E09C12C0EF04A0050F70E /* Base */; };
 		3B8E09C42C0EF04C0050F70E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B8E09C32C0EF04C0050F70E /* Assets.xcassets */; };
 		3B8E09C72C0EF04C0050F70E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 3B8E09C62C0EF04C0050F70E /* Base */; };
+		3B8E09CF2C0EF5840050F70E /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8E09CE2C0EF5840050F70E /* QuestionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3B8E09C32C0EF04C0050F70E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B8E09C62C0EF04C0050F70E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3B8E09C82C0EF04C0050F70E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B8E09CE2C0EF5840050F70E /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				3B8E09BC2C0EF04A0050F70E /* SceneDelegate.swift */,
 				3B8E09BE2C0EF04A0050F70E /* ViewController.swift */,
 				3B8E09C02C0EF04A0050F70E /* Main.storyboard */,
+				3B8E09CE2C0EF5840050F70E /* QuestionViewController.swift */,
 				3B8E09C32C0EF04C0050F70E /* Assets.xcassets */,
 				3B8E09C52C0EF04C0050F70E /* LaunchScreen.storyboard */,
 				3B8E09C82C0EF04C0050F70E /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				3B8E09BF2C0EF04A0050F70E /* ViewController.swift in Sources */,
 				3B8E09BB2C0EF04A0050F70E /* AppDelegate.swift in Sources */,
+				3B8E09CF2C0EF5840050F70E /* QuestionViewController.swift in Sources */,
 				3B8E09BD2C0EF04A0050F70E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
