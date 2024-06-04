@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'testMaker' in project 'testMaker' (no dependencies)
+Target 'testMaker' in project 'testMaker' (no dependencies)
