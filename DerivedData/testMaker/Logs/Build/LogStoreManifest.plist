@@ -6,6 +6,90 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>09845D24-DB55-4BEC-839B-3BF4C82E873C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>09845D24-DB55-4BEC-839B-3BF4C82E873C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>testMaker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>testMaker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build testMaker</string>
+			<key>timeStartedRecording</key>
+			<real>739181456.86523998</real>
+			<key>timeStoppedRecording</key>
+			<real>739181458.71502602</real>
+			<key>title</key>
+			<string>Build testMaker</string>
+			<key>uniqueIdentifier</key>
+			<string>09845D24-DB55-4BEC-839B-3BF4C82E873C</string>
+		</dict>
+		<key>12D0F0EA-4BD3-4240-96CF-63ED3CA9E0D3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>12D0F0EA-4BD3-4240-96CF-63ED3CA9E0D3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>testMaker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>testMaker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build testMaker</string>
+			<key>timeStartedRecording</key>
+			<real>739181225.79193401</real>
+			<key>timeStoppedRecording</key>
+			<real>739181227.57404995</real>
+			<key>title</key>
+			<string>Build testMaker</string>
+			<key>uniqueIdentifier</key>
+			<string>12D0F0EA-4BD3-4240-96CF-63ED3CA9E0D3</string>
+		</dict>
 		<key>9681482B-1A6A-44BD-A022-B49DBD9A1F1B</key>
 		<dict>
 			<key>className</key>
@@ -48,6 +132,90 @@
 			<key>uniqueIdentifier</key>
 			<string>9681482B-1A6A-44BD-A022-B49DBD9A1F1B</string>
 		</dict>
+		<key>BF3C1966-E7F6-4C28-AE36-DAE3EADED9E9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BF3C1966-E7F6-4C28-AE36-DAE3EADED9E9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>testMaker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>testMaker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build testMaker</string>
+			<key>timeStartedRecording</key>
+			<real>739178698.34783804</real>
+			<key>timeStoppedRecording</key>
+			<real>739178701.74131</real>
+			<key>title</key>
+			<string>Build testMaker</string>
+			<key>uniqueIdentifier</key>
+			<string>BF3C1966-E7F6-4C28-AE36-DAE3EADED9E9</string>
+		</dict>
+		<key>C9B08408-B4EB-4051-851E-DB4E1DC61DF8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C9B08408-B4EB-4051-851E-DB4E1DC61DF8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>testMaker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>testMaker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build testMaker</string>
+			<key>timeStartedRecording</key>
+			<real>739178813.40159094</real>
+			<key>timeStoppedRecording</key>
+			<real>739178814.06599295</real>
+			<key>title</key>
+			<string>Build testMaker</string>
+			<key>uniqueIdentifier</key>
+			<string>C9B08408-B4EB-4051-851E-DB4E1DC61DF8</string>
+		</dict>
 		<key>DD81EBD6-2551-41C8-9B0C-CC632A2FE623</key>
 		<dict>
 			<key>className</key>
@@ -89,6 +257,48 @@
 			<string>Build testMaker</string>
 			<key>uniqueIdentifier</key>
 			<string>DD81EBD6-2551-41C8-9B0C-CC632A2FE623</string>
+		</dict>
+		<key>DE7A206F-84D4-4177-8D5B-50AD81036DE1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DE7A206F-84D4-4177-8D5B-50AD81036DE1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>testMaker project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>testMaker</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build testMaker</string>
+			<key>timeStartedRecording</key>
+			<real>739178969.55185103</real>
+			<key>timeStoppedRecording</key>
+			<real>739178974.77638304</real>
+			<key>title</key>
+			<string>Build testMaker</string>
+			<key>uniqueIdentifier</key>
+			<string>DE7A206F-84D4-4177-8D5B-50AD81036DE1</string>
 		</dict>
 	</dict>
 </dict>

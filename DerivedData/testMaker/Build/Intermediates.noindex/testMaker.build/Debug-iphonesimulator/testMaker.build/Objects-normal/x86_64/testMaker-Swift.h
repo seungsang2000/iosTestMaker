@@ -310,6 +310,19 @@ SWIFT_CLASS("_TtC9testMaker11AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+@class NSString;
+@class NSBundle;
+@class NSCoder;
+
+SWIFT_CLASS("_TtC9testMaker22QuestionViewController")
+@interface QuestionViewController : UIViewController
+- (void)viewDidLoad;
+- (IBAction)backBtn:(id _Nonnull)sender;
+- (IBAction)nextQuestion:(id _Nonnull)sender;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
 @class UIWindow;
 @class UIScene;
 
@@ -329,13 +342,14 @@ SWIFT_CLASS("_TtC9testMaker13SceneDelegate")
 
 
 
-@class NSString;
-@class NSBundle;
-@class NSCoder;
+@class UITextField;
+@class UIButton;
 
 SWIFT_CLASS("_TtC9testMaker14ViewController")
 @interface ViewController : UIViewController
+@property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified certificateNameText;
 - (void)viewDidLoad;
+- (IBAction)testStartBtn:(UIButton * _Nonnull)sender;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end

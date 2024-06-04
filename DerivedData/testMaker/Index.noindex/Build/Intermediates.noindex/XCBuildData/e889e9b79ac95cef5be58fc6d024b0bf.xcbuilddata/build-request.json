@@ -1,0 +1,59 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "55bef39fafc99ec97bbf2eb7c926c6f38c7888ed45c636cdae43d67565a03cf7"
+    }
+  ],
+  "containerPath" : "/Users/mac036/Desktop/testMaker/testMaker.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/mac036/Desktop/testMaker/DerivedData/testMaker/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/mac036/Desktop/testMaker/DerivedData/testMaker/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/mac036/Desktop/testMaker/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/mac036/Desktop/testMaker/DerivedData/testMaker/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mac036/Desktop/testMaker/DerivedData/testMaker/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/mac036/Desktop/testMaker/DerivedData/testMaker/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/mac036/Desktop/testMaker/DerivedData/testMaker/Build/Products",
+      "pchPath" : "/Users/mac036/Desktop/testMaker/DerivedData/testMaker/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

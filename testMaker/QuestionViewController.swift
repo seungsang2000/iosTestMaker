@@ -15,7 +15,19 @@ class QuestionViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-
+    @IBAction func backBtn(_ sender: Any) {
+        guard let stopTest = self.storyboard?.instantiateViewController(identifier: "ViewController") else {return}
+        if let window = UIApplication.shared.windows.first{
+            window.rootViewController = stopTest
+            window.makeKeyAndVisible()
+            UIView.transition(with: window, duration: 0.5, animations: nil)
+        }
+    }
+    
+    @IBAction func nextQuestion(_ sender: Any) {
+        guard let stopTest = self.storyboard?.instantiateViewController(identifier: "QuestionViewController") else {return}
+        self.present(stopTest, animated: true)
+    }
     /*
     // MARK: - Navigation
 

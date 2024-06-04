@@ -14,6 +14,7 @@
 		3B8E09C42C0EF04C0050F70E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B8E09C32C0EF04C0050F70E /* Assets.xcassets */; };
 		3B8E09C72C0EF04C0050F70E /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 3B8E09C62C0EF04C0050F70E /* Base */; };
 		3B8E09CF2C0EF5840050F70E /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8E09CE2C0EF5840050F70E /* QuestionViewController.swift */; };
+		3B8E09D12C0F04660050F70E /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 3B8E09D02C0F04660050F70E /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3B8E09C62C0EF04C0050F70E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3B8E09C82C0EF04C0050F70E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3B8E09CE2C0EF5840050F70E /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
+		3B8E09D02C0F04660050F70E /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				3B8E09BA2C0EF04A0050F70E /* AppDelegate.swift */,
+				3B8E09D02C0F04660050F70E /* .gitignore */,
 				3B8E09BC2C0EF04A0050F70E /* SceneDelegate.swift */,
 				3B8E09BE2C0EF04A0050F70E /* ViewController.swift */,
 				3B8E09C02C0EF04A0050F70E /* Main.storyboard */,
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B8E09D12C0F04660050F70E /* .gitignore in Resources */,
 				3B8E09C42C0EF04C0050F70E /* Assets.xcassets in Resources */,
 				3B8E09C72C0EF04C0050F70E /* Base in Resources */,
 				3B8E09C22C0EF04A0050F70E /* Base in Resources */,
